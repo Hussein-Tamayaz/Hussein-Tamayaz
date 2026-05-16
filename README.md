@@ -32,18 +32,9 @@ I'm Hussein, Co-Founder at **[Tamayaz](https://tamayaz.io)**. We design and buil
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <h3>Build</h3>
-      <sub>Bespoke software for operations that don't fit off-the-shelf tools.</sub>
-    </td>
-    <td align="center" width="33%">
-      <h3>Automate</h3>
-      <sub>Workflows that remove the repetitive parts of running a business.</sub>
-    </td>
-    <td align="center" width="33%">
-      <h3>Operate</h3>
-      <sub>AI operators that handle the work in the channels your team already uses.</sub>
-    </td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/card-build.svg" alt="Build: bespoke software for operations that don't fit off-the-shelf tools" width="100%" /></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/card-automate.svg" alt="Automate: workflows that remove the repetitive parts of running a business" width="100%" /></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/card-operate.svg" alt="Operate: AI operators that handle the work in the channels your team already uses" width="100%" /></td>
   </tr>
 </table>
 
