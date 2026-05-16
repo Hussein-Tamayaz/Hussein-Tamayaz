@@ -1,30 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:231F20,100:44D62C&height=200&section=header&text=Hussein%20Mrad&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Co-Founder%20at%20Tamayaz&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="banner" />
+<img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/hero-hussein.svg" width="100%" alt="Hussein Mrad. Co-Founder at Tamayaz." />
 
-<br>
-
-<img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/tamayaz-logo.png" alt="Tamayaz" width="260">
-
-<p><em>Transforming processes. Optimizing operations. Shaping success.</em></p>
+<p><em>I design and build the operational backbone for businesses that want their day back. Most of what I ship lives behind login screens and inside private repos, so this page is intentionally short.</em></p>
 
 <p>
   <a href="https://tamayaz.io"><img src="https://img.shields.io/badge/tamayaz.io-44D62C?style=for-the-badge&logo=safari&logoColor=231F20" alt="tamayaz.io" /></a>
   <a href="https://app.tamayaz.io"><img src="https://img.shields.io/badge/app.tamayaz.io-231F20?style=for-the-badge&logo=rocket&logoColor=44D62C" alt="app.tamayaz.io" /></a>
+  <a href="https://yara.tamayaz.io"><img src="https://img.shields.io/badge/yara.tamayaz.io-231F20?style=for-the-badge&logoColor=44D62C" alt="yara.tamayaz.io" /></a>
   <a href="mailto:hussein@tamayaz.io"><img src="https://img.shields.io/badge/hussein%40tamayaz.io-231F20?style=for-the-badge&logo=maildotru&logoColor=44D62C" alt="email" /></a>
 </p>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3500&pause=800&color=44D62C&center=true&vCenter=true&width=720&lines=Co-Founder.+Builder.+Quiet+shipper.;Software+that+respects+people's+time.;Less+talk%2C+more+ship." alt="taglines" />
-</p>
-
 </div>
-
-<br>
-
-## About
-
-I'm Hussein, Co-Founder at **[Tamayaz](https://tamayaz.io)**. We design and build the operational backbone for businesses that want their day back. Most of what I work on lives behind login screens and inside private repos, so this page is intentionally short. If you want to see what we ship, the live product is the best window.
 
 <br>
 
@@ -36,10 +23,6 @@ I'm Hussein, Co-Founder at **[Tamayaz](https://tamayaz.io)**. We design and buil
   <img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/card-automate.svg" alt="Automate: workflows that remove the repetitive parts of running a business" width="32%" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/card-operate.svg" alt="Operate: AI operators that handle the work in the channels your team already uses" width="32%" />
-</p>
-
-<p align="center">
-  <a href="https://tamayaz.io"><img src="https://img.shields.io/badge/See%20what%20we're%20building-44D62C?style=for-the-badge&logoColor=231F20" alt="See what we're building" /></a>
 </p>
 
 <br>
@@ -54,18 +37,12 @@ I'm Hussein, Co-Founder at **[Tamayaz](https://tamayaz.io)**. We design and buil
 
 <br>
 
-<h2 align="center">Work with me</h2>
-
 <p align="center">
-If you're looking for help with a product build, an internal tool, or an automation problem that has been sitting on a list too long, send me an email at <b><a href="mailto:hussein@tamayaz.io">hussein@tamayaz.io</a></b> and we'll find a time to talk.
+  <a href="mailto:hussein@tamayaz.io"><img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/cta-hussein.svg" alt="Work with me. Email Hussein at hussein@tamayaz.io." width="90%" /></a>
 </p>
 
 <br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:44D62C,100:231F20&height=120&section=footer" width="100%" alt="" />
-
-<sub><b>Tamayaz</b> &nbsp;·&nbsp; <code>#231F20</code> &nbsp;·&nbsp; <code>#44D62C</code> &nbsp;·&nbsp; Montserrat</sub>
-
+  <sub><b>Tamayaz</b> &nbsp;·&nbsp; <code>#231F20</code> &nbsp;·&nbsp; <code>#44D62C</code> &nbsp;·&nbsp; Montserrat</sub>
 </div>
