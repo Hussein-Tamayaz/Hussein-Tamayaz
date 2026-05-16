@@ -47,11 +47,7 @@ I'm Hussein, Co-Founder at **[Tamayaz](https://tamayaz.io)**. We design and buil
 <h2 align="center">Our products</h2>
 
 <p align="center">
-  <a href="https://app.tamayaz.io"><img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/card-product-app.svg" alt="Tamayaz App: the product behind every claim. Operations, automation, and the workflows your business actually runs on." width="75%" /></a>
-</p>
-
-<p align="center">
-  <a href="https://yara.tamayaz.io"><img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/card-product-yara.svg" alt="Yara: your AI operator on WhatsApp and Telegram. Yara picks up work the way your team already talks." width="75%" /></a>
+  <a href="https://app.tamayaz.io"><img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/card-product-app.svg" alt="Tamayaz App: the product behind every claim. Operations, automation, and the workflows your business actually runs on." width="49%" /></a><a href="https://yara.tamayaz.io"><img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/card-product-yara.svg" alt="Yara: your AI operator on WhatsApp and Telegram. Yara picks up work the way your team already talks." width="49%" /></a>
 </p>
 
 <br>
