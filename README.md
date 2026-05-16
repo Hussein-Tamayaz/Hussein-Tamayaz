@@ -30,16 +30,26 @@ I'm Hussein, Co-Founder at **[Tamayaz](https://tamayaz.io)**. We design and buil
 
 <h2 align="center">What Tamayaz does</h2>
 
-<table align="center">
-  <tr>
-    <td width="33%"><img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/card-build.svg" alt="Build: bespoke software for operations that don't fit off-the-shelf tools" width="100%" /></td>
-    <td width="33%"><img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/card-automate.svg" alt="Automate: workflows that remove the repetitive parts of running a business" width="100%" /></td>
-    <td width="33%"><img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/card-operate.svg" alt="Operate: AI operators that handle the work in the channels your team already uses" width="100%" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/card-build.svg" alt="Build: bespoke software for operations that don't fit off-the-shelf tools" width="32%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/card-automate.svg" alt="Automate: workflows that remove the repetitive parts of running a business" width="32%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/card-operate.svg" alt="Operate: AI operators that handle the work in the channels your team already uses" width="32%" />
+</p>
 
 <p align="center">
   <a href="https://tamayaz.io"><img src="https://img.shields.io/badge/See%20what%20we're%20building-44D62C?style=for-the-badge&logoColor=231F20" alt="See what we're building" /></a>
+</p>
+
+<br>
+
+<h2 align="center">Our products</h2>
+
+<p align="center">
+  <a href="https://app.tamayaz.io"><img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/card-product-app.svg" alt="Tamayaz App: the product behind every claim. Operations, automation, and the workflows your business actually runs on." width="48%" /></a>
+  &nbsp;
+  <a href="https://yara.tamayaz.io"><img src="https://raw.githubusercontent.com/Hussein-Tamayaz/Hussein-Tamayaz/main/assets/card-product-yara.svg" alt="Yara: your AI operator on WhatsApp and Telegram. Yara picks up work the way your team already talks." width="48%" /></a>
 </p>
 
 <br>
